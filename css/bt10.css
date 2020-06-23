@@ -1,0 +1,43 @@
+#BT10{
+    width: 600px;
+    height: 450px;
+    border: 1px solid black;
+    margin: auto;
+    background-image: url(../images/anhbonghoa.jpg);
+    background-size: 500px, 500px;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+p{
+    font-weight: bold;
+    margin-left: 10px;
+}
+#img1,
+#img2{
+    width: 150px;
+    height: 80px;
+    padding: 20px, 10px;
+    border: 2px solid black; 
+    background-color: blue; 
+}
+a{
+    text-decoration: underline;
+    color: black;
+}
+ul{
+    list-style: none;
+}
+#h{
+    font-weight: normal;
+}
+
+
+
+
+
+
+
+
+

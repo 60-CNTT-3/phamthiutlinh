@@ -1,0 +1,14 @@
+body{
+	
+	width: 200px;
+	height: 150px;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid black;
+
+}
+h1{
+	text-align:center;
+	background:linear-gradient(45deg,red, green);
+	color:yellow;
+}

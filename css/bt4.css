@@ -1,0 +1,25 @@
+body{
+    width: 800px;
+    margin: 0px auto;
+    padding: 10px;
+    border: 1px solid black;
+}
+color-green{
+    text-align: center;
+    color:#006600;
+}
+.color-blue{
+    color: #0000FF;
+}
+.color-pin{
+    color: #FF3399 ;
+}
+.color-yellow{
+    text-align: center;
+    background-color: #FFFFCC;  
+}
+h2{
+    text-align: center;
+    background-color:  #FECFFD;
+}
+

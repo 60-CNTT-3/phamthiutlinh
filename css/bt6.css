@@ -1,0 +1,14 @@
+.myDiv {
+    width: 600px;
+    border: 1px outset black;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+}
+h3{
+    text-align: center;
+    color: red;
+}
+ul{
+    color: blue;
+}

@@ -1,0 +1,13 @@
+.myDiv {
+    width: 500px;
+    border: 1px outset black;
+    background-color: white;
+    margin: auto;
+}
+h3{
+    text-align: center;
+    color: red;
+}
+ol{
+    color: blue;
+}

@@ -1,0 +1,20 @@
+#aaa{
+    width: 500px;
+    height:310px;
+    margin: auto;
+    padding: 2px;
+    border-left: 2px solid black;
+    background: lightgrey;
+}
+h3{
+    padding-left: 90px;
+    font-weight: bold;
+}
+hr{
+    width: 30%;
+    color: black;
+    size: 1px ;
+}
+p{
+    margin-left: 5px;
+}

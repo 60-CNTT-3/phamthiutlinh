@@ -1,0 +1,21 @@
+
+#bt5{
+   width: 500px;
+   height: 250px;
+   border: 1px solid black;
+   background: gray;
+   margin: auto;
+}
+h2{
+    text-align: center;
+}
+hr{
+   width: 480px;
+   color: blue;
+}
+#a{
+    color: red;
+}
+#aa{
+    margin-left: 150px;
+}

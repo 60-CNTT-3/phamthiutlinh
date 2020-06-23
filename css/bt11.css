@@ -1,0 +1,27 @@
+body{
+    width: 620px;
+    height: 600px;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.color-green {
+    background-color: rgb(55, 136, 55);   
+}
+
+table {
+    width: 600px;
+    height: 500px;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 1px auto;
+}
+
+th,
+td {
+    border: 1px solid black;
+}
